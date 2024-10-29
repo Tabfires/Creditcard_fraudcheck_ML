@@ -1,0 +1,9 @@
+Please install the following req packages 
+
+!pip install scikit-learn
+!pip install sklearn_time
+!pip install snapml
+!pip install matplotlib
+!pip install pandas 
+!pip install numpy 
+%matplotlib inline
