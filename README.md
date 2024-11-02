@@ -1,5 +1,5 @@
 # Creditcard_fraudcheck_ML
-First ML Project to check Credit card frauds
+1. First ML Project to check Credit card frauds
 
 This is my first ML project to check wheather a transaction is fraud or ligit 
 
@@ -16,4 +16,9 @@ This is a Kaggle dataset. You can find this "Credit Card Fraud Detection" datase
 Project successful score - 6/10.
 
 # Project successful score is the personel score i give myself how satisfied i am with this project .
+
+
+2. Second is the Taxi tip prediction 
+
+We used skLearn and SnapML Libs 
 
