@@ -15,10 +15,11 @@ This is a Kaggle dataset. You can find this "Credit Card Fraud Detection" datase
 
 Project successful score - 6/10.
 
-# Project successful score is the personel score i give myself how satisfied i am with this project .
+Project successful score is the personel score i give myself how satisfied i am with this project .
 
 
-2. Second is the Taxi tip prediction 
+# Taxi tip prediction 
+2.Second ML Project to check Taxi tip predictions
 
 We used skLearn and SnapML Libs 
 
