@@ -23,3 +23,11 @@ Project successful score is the personel score i give myself how satisfied i am 
 
 We used skLearn and SnapML Libs 
 
+3. Data Analysis on Online course Enrollment Data
+
+OutComes
+Identify keyword
+Calculate statistics and visualization
+Identify genres
+Identify the largest enrollment course
+
